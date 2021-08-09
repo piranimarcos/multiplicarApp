@@ -20,4 +20,6 @@ Opciones:
 ```
   --version  Muestra número de versión                                [booleano]
   --help     Muestra ayuda                                            [booleano]
+  --base, -b                                                         [requerido]
+  --limite, -l                                                     [defecto: 10]
 ```
